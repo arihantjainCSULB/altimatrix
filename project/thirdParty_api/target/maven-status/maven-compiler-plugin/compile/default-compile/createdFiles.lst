@@ -1,0 +1,5 @@
+com/altimatrix/thirdParty_api/rest/SchoolAPI.class
+com/altimatrix/thirdParty_api/controller/SchoolController.class
+com/altimatrix/thirdParty_api/domain/School.class
+com/altimatrix/thirdParty_api/ThirdPartyApiApplication.class
+com/altimatrix/thirdParty_api/domain/Result.class
